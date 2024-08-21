@@ -1,4 +1,5 @@
 # Sales-Data-Analysis-And-Insights-Using-SQL
+*NOTE* : *I have used SQL Server For this Project*
 
 This project involves a series of SQL queries designed to perform in-depth analysis on a sales dataset. 
 The analysis covers various aspects of sales performance, including:
