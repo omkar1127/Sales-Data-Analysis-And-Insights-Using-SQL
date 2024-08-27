@@ -21,5 +21,23 @@ Profit and Revenue: Calculating net profit by branch and revenue by payment type
 along with the sales amounts calculated for each city.
 
 ## Skills Applied
+•	Window Functions
+•	CTEs
+•	Aggregations
+•	Subquery
+•	data type conversion
 
 ## Questions Explored
+1) Which Product Have Highest Sales Volume Across All Branches?
+2) What Are The Top-Selling Product Categories?
+3) Who Are The Top 10 Most Spending Customers?
+4) What Is The Average Transaction Value Per Customer?
+5) Branch-wise Sales Trends Over The Three-Month Period.
+6) Product Line Wise Sales Trends Over The Three-Month Period
+7) Peak Sales Days.
+8) Branch Ranked By Average Customer Ratings.
+9) Product Categories Ranked By Average Customer Ratings.
+10) Sales Amounts Calculated For Each City
+11) Sales Percentage by Gender
+12) Preferred Payment Method By The Customers 
+13) Revenue By Payment Type
