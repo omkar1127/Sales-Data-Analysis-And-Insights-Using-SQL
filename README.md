@@ -21,11 +21,11 @@ Profit and Revenue: Calculating net profit by branch and revenue by payment type
 along with the sales amounts calculated for each city.
 
 ## Skills Applied
-•	Window Functions
-•	CTEs
-•	Aggregations
-•	Subquery
-•	data type conversion
+•	Window Functions< br / >
+•	CTEs< br / >
+•	Aggregations< br / >
+•	Subquery< br / >
+•	data type conversion< br / >
 
 ## Questions Explored
 1) Which Product Have Highest Sales Volume Across All Branches?
