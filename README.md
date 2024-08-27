@@ -1,6 +1,7 @@
 # Sales-Data-Analysis-And-Insights-Using-SQL
 *NOTE* : *I have used SQL Server For this Project*
 
+## About Project 
 This project involves a series of SQL queries designed to perform in-depth analysis on a sales dataset. 
 The analysis covers various aspects of sales performance, including:
 
@@ -10,7 +11,6 @@ and analyzing branch-wise sales trends over a three-month period.
 Product Insights: Determining the top-selling product categories, analyzing product line sales trends, 
 and ranking product categories by average customer ratings.
 
-
 Customer Behavior: Identifying top-spending customers, calculating average transaction values per customer, 
 and analyzing sales by customer demographics such as gender and preferred payment methods.
 
@@ -19,3 +19,7 @@ and determining the highest sales day.
 
 Profit and Revenue: Calculating net profit by branch and revenue by payment type,
 along with the sales amounts calculated for each city.
+
+## Skills Applied
+
+## Questions Explored
